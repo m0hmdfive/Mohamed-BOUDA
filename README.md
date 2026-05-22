@@ -12,11 +12,11 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0hmdfive&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=6B7280" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=m0hmdfive&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F97316&text_color=E5E7EB&ring_color=A78BFA" width="49%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=m0hmdfive&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F97316&text_color=E5E7EB&ring_color=A78BFA" width="49%" /> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hmdfive&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" width="38%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hmdfive&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" width="38%" /> -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=m0hmdfive&theme=radical&utcOffset=1" width="38%" />
 </p>
 
@@ -315,5 +315,3 @@ Université des Sciences et de la Technologie Houari Boumédiène (USTHB), Alger
 ---
 
 **Always thriving to build creative and robust solutions all while maintaining clean code and best practices**
-
-
