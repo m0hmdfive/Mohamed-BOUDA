@@ -1,6 +1,6 @@
 # Mohamed BOUDA
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=false&vCenter=true&width=700&height=55&lines=Fullstack+Developer;Data+Engineering+%7C+AI+Applications+;+%7C+Distributed+Systems;.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=800&color=A78BFA&center=false&vCenter=true&width=700&height=55&lines=Fullstack+Developer;Data+Engineering+%7C+AI+Applications+;+%7C+Distributed+Systems;)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-bouda/)
 [![GitHub](https://img.shields.io/badge/m0hmdfive-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m0hmdfive)
